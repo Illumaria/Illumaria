@@ -1,7 +1,7 @@
 ### Hi there! Name's Dmitry, nice to meet you!
 
 I am:
-* ⚒ ML Engineer at [Altis](https://altis.ai/);
+* ⚒ ML Engineer at [Yandex](https://yandex.com);
 * 🎓 [MADE Big Data Academy](https://data.vk.company/) grad;
 * 🤗 always happy to chat about... well, anything!
 
